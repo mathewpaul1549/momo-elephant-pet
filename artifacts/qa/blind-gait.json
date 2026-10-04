@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and raised trunk project to viewer right with near left ear dominant; B nose projects viewer left and right ear dominates."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A muzzle/trunk extend right of eye and head center; B muzzle/trunk extend left of eye and head center."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A raised trunk projects left and right ear dominates; B raised trunk projects right with left ear dominant."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A full side-facing muzzle and trunk point right; B full side-facing muzzle and trunk point left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered nose extends to right with visible eye following right; B lowered muzzle and eye aim left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and downward trunk are left of face center with right ear dominant; B nose and downward trunk are right of face center with left ear dominant."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both lower the face, but A trunk tip and central nose displace toward viewer left while B displaces toward viewer right; far ears shrink accordingly."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A head bows and eyes aim below face while trunk drops vertically; B head tips back, eyes look above and trunk raises centrally."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin lifts with raised trunk and eyes angled up; B brows and face tilt down, pupils and trunk aim below."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A lowered muzzle and eye aim lower-right; B raised muzzle and eye aim upper-right."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A rightward muzzle is elevated and trunk tip curls upward; B rightward muzzle lowers relative to the ear center and pupil aims below, with trunk carried lower."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A trunk raises nearly vertical, chin lifts, eyes look above; B trunk hangs low-left from bowed head and downcast pupils."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A leftward muzzle lowers with downward trunk and eyes aimed below; B muzzle lifts upper-left with upcurled trunk and upward gaze."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A muzzle points left slightly below eye line and head pitches forward/down; B muzzle pitches upward left with trunk tip above eyes and lifted chin."
+    }
+  ]
+}

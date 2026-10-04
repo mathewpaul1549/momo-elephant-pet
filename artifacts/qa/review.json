@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14554,
+          "bbox": [
+            20,
+            62,
+            174,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14511,
+          "bbox": [
+            19,
+            62,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14565,
+          "bbox": [
+            20,
+            62,
+            174,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14523,
+          "bbox": [
+            19,
+            62,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14527,
+          "bbox": [
+            19,
+            62,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14492,
+          "bbox": [
+            20,
+            62,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14475,
+          "bbox": [
+            22,
+            60,
+            169,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 271
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13378,
+          "bbox": [
+            25,
+            61,
+            165,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14330,
+          "bbox": [
+            22,
+            61,
+            169,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 268
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13208,
+          "bbox": [
+            25,
+            60,
+            166,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14396,
+          "bbox": [
+            21,
+            61,
+            169,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 278
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13344,
+          "bbox": [
+            25,
+            61,
+            165,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 6,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14393,
+          "bbox": [
+            21,
+            60,
+            170,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 7,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13238,
+          "bbox": [
+            26,
+            60,
+            165,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14249,
+          "bbox": [
+            27,
+            60,
+            162,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13386,
+          "bbox": [
+            27,
+            60,
+            164,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14575,
+          "bbox": [
+            19,
+            60,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 257
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13218,
+          "bbox": [
+            25,
+            60,
+            166,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14455,
+          "bbox": [
+            20,
+            61,
+            171,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13345,
+          "bbox": [
+            26,
+            61,
+            166,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 6,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14386,
+          "bbox": [
+            22,
+            60,
+            170,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
+        },
+        {
+          "index": 7,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13259,
+          "bbox": [
+            26,
+            60,
+            166,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14909,
+          "bbox": [
+            19,
+            59,
+            172,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14861,
+          "bbox": [
+            19,
+            59,
+            172,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14944,
+          "bbox": [
+            19,
+            59,
+            172,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14765,
+          "bbox": [
+            19,
+            59,
+            172,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14411,
+          "bbox": [
+            20,
+            61,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14025,
+          "bbox": [
+            21,
+            37,
+            170,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13507,
+          "bbox": [
+            21,
+            5,
+            170,
+            142
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 107
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13469,
+          "bbox": [
+            21,
+            36,
+            170,
+            175
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14303,
+          "bbox": [
+            20,
+            61,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15529,
+          "bbox": [
+            18,
+            53,
+            172,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 345
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14181,
+          "bbox": [
+            23,
+            57,
+            168,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 313
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13421,
+          "bbox": [
+            25,
+            63,
+            166,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 276
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12798,
+          "bbox": [
+            27,
+            69,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12950,
+          "bbox": [
+            26,
+            69,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13433,
+          "bbox": [
+            25,
+            63,
+            166,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        },
+        {
+          "index": 6,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14455,
+          "bbox": [
+            22,
+            56,
+            168,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 324
+        },
+        {
+          "index": 7,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15541,
+          "bbox": [
+            18,
+            53,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 360
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17070,
+          "bbox": [
+            19,
+            18,
+            172,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17572,
+          "bbox": [
+            14,
+            30,
+            178,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16479,
+          "bbox": [
+            21,
+            22,
+            171,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17267,
+          "bbox": [
+            18,
+            16,
+            173,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17508,
+          "bbox": [
+            13,
+            30,
+            177,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16375,
+          "bbox": [
+            21,
+            22,
+            170,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14193,
+          "bbox": [
+            19,
+            65,
+            173,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14243,
+          "bbox": [
+            19,
+            63,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14247,
+          "bbox": [
+            21,
+            51,
+            171,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 229
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14063,
+          "bbox": [
+            19,
+            61,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14059,
+          "bbox": [
+            22,
+            52,
+            170,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14098,
+          "bbox": [
+            19,
+            65,
+            173,
+            204
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13470,
+          "bbox": [
+            20,
+            74,
+            173,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13145,
+          "bbox": [
+            22,
+            69,
+            171,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13465,
+          "bbox": [
+            20,
+            74,
+            173,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13418,
+          "bbox": [
+            20,
+            74,
+            173,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13179,
+          "bbox": [
+            21,
+            69,
+            171,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13460,
+          "bbox": [
+            20,
+            74,
+            173,
+            205
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        }
+      ]
+    }
+  ]
+}

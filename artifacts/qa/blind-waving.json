@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-right","B":"screen-left","reason":"A head and curled trunk aim right of the torso; B raised trunk and face shift to the left."},
+    {"pair":"horizontal-2","A":"screen-right","B":"screen-left","reason":"A muzzle extends to the right with the right-side face leading; B muzzle and curled trunk extend left."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A trunk projects left and face turns left; B trunk projects right and face turns right."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A side-looking muzzle and trunk extend right; B muzzle and trunk extend left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A downward-angled face and trunk lead right; B face and trunk lead left."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A lowered muzzle and trunk lie left of the head center; B lowered muzzle and trunk lie right of head center."},
+    {"pair":"horizontal-7","A":"screen-left","B":"screen-right","reason":"A bowed head has its nose and trunk offset left; B bowed nose and curled trunk offset right."},
+    {"pair":"vertical-1","A":"down","B":"up","reason":"A bows its head with eyes low and trunk hanging down; B tips face upward with trunk raised above the eyes."},
+    {"pair":"vertical-2","A":"up","B":"down","reason":"A lifts nose and curled trunk with upward-looking eyes; B bows the head with lowered eyes and descending trunk."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A lowers the head and muzzle toward ground; B raises the nose and trunk with face tipped upward."},
+    {"pair":"vertical-4","A":"up","B":"down","reason":"A has raised curled trunk tip and upward-tilted muzzle; B angles eyes and muzzle downward with trunk below eye height."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A trunk points upward prominently over the face; B face bows toward the feet and trunk descends."},
+    {"pair":"vertical-6","A":"down","B":"up","reason":"A lowered face and trunk point toward ground; B nose and curled trunk lift upward with upward head pitch."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A muzzle extends below eye level with a lowered trunk tip; B curled tip rises above the eye and muzzle with lifted face."}
+  ]
+}

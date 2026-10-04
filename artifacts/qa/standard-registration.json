@@ -1,0 +1,154 @@
+{
+  "target_width": 149,
+  "target_height": 139,
+  "target_ground": 202,
+  "rows": [
+    {
+      "state": "idle",
+      "method": "components",
+      "source": "work/momo/qa/rows/idle/frames/idle",
+      "row_scale": 0.8370786516853933,
+      "source_baseline": 186.0,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/idle/00.png",
+        "work/momo/frames/idle/01.png",
+        "work/momo/frames/idle/02.png",
+        "work/momo/frames/idle/03.png",
+        "work/momo/frames/idle/04.png",
+        "work/momo/frames/idle/05.png"
+      ]
+    },
+    {
+      "state": "running-right",
+      "method": "components",
+      "source": "work/momo/qa/rows/running-right/frames/running-right",
+      "row_scale": 0.8057971014492754,
+      "source_baseline": 189.5,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/running-right/00.png",
+        "work/momo/frames/running-right/01.png",
+        "work/momo/frames/running-right/02.png",
+        "work/momo/frames/running-right/03.png",
+        "work/momo/frames/running-right/04.png",
+        "work/momo/frames/running-right/05.png",
+        "work/momo/frames/running-right/06.png",
+        "work/momo/frames/running-right/07.png"
+      ]
+    },
+    {
+      "state": "running-left",
+      "method": "components",
+      "source": "work/momo/qa/rows/running-left/frames/running-left",
+      "row_scale": 0.8449848024316109,
+      "source_baseline": 185.5,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/running-left/00.png",
+        "work/momo/frames/running-left/01.png",
+        "work/momo/frames/running-left/02.png",
+        "work/momo/frames/running-left/03.png",
+        "work/momo/frames/running-left/04.png",
+        "work/momo/frames/running-left/05.png",
+        "work/momo/frames/running-left/06.png",
+        "work/momo/frames/running-left/07.png"
+      ]
+    },
+    {
+      "state": "waving",
+      "method": "components",
+      "source": "work/momo/qa/rows/waving/frames/waving",
+      "row_scale": 0.8277777777777777,
+      "source_baseline": 188.0,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/waving/00.png",
+        "work/momo/frames/waving/01.png",
+        "work/momo/frames/waving/02.png",
+        "work/momo/frames/waving/03.png"
+      ]
+    },
+    {
+      "state": "jumping",
+      "method": "components",
+      "source": "work/momo/qa/rows/jumping/frames/jumping",
+      "row_scale": 1.0,
+      "source_baseline": 202,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/jumping/00.png",
+        "work/momo/frames/jumping/01.png",
+        "work/momo/frames/jumping/02.png",
+        "work/momo/frames/jumping/03.png",
+        "work/momo/frames/jumping/04.png"
+      ]
+    },
+    {
+      "state": "failed",
+      "method": "components",
+      "source": "work/momo/qa/rows/failed/frames/failed",
+      "row_scale": 0.8514285714285714,
+      "source_baseline": 190.0,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/failed/00.png",
+        "work/momo/frames/failed/01.png",
+        "work/momo/frames/failed/02.png",
+        "work/momo/frames/failed/03.png",
+        "work/momo/frames/failed/04.png",
+        "work/momo/frames/failed/05.png",
+        "work/momo/frames/failed/06.png",
+        "work/momo/frames/failed/07.png"
+      ]
+    },
+    {
+      "state": "waiting",
+      "method": "components",
+      "source": "work/momo/qa/rows/waiting/frames/waiting",
+      "row_scale": 0.9371069182389937,
+      "source_baseline": 202.0,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/waiting/00.png",
+        "work/momo/frames/waiting/01.png",
+        "work/momo/frames/waiting/02.png",
+        "work/momo/frames/waiting/03.png",
+        "work/momo/frames/waiting/04.png",
+        "work/momo/frames/waiting/05.png"
+      ]
+    },
+    {
+      "state": "running",
+      "method": "components",
+      "source": "work/momo/qa/rows/running/frames/running",
+      "row_scale": 0.8418079096045198,
+      "source_baseline": 191.0,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/running/00.png",
+        "work/momo/frames/running/01.png",
+        "work/momo/frames/running/02.png",
+        "work/momo/frames/running/03.png",
+        "work/momo/frames/running/04.png",
+        "work/momo/frames/running/05.png"
+      ]
+    },
+    {
+      "state": "review",
+      "method": "components",
+      "source": "work/momo/qa/rows/review/frames/review",
+      "row_scale": 0.8370786516853933,
+      "source_baseline": 182.0,
+      "target_baseline": 202,
+      "frames": [
+        "work/momo/frames/review/00.png",
+        "work/momo/frames/review/01.png",
+        "work/momo/frames/review/02.png",
+        "work/momo/frames/review/03.png",
+        "work/momo/frames/review/04.png",
+        "work/momo/frames/review/05.png"
+      ]
+    }
+  ]
+}

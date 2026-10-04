@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "directions": [
+    {"label":"000","expected":"up","observed":"Head pitched upward with chin lifted and trunk projecting toward top; eyes look above the nose.","verdict":"pass","evidence":"Upward nose/trunk tip, visible under-chin, original pupils raised in eye surfaces."},
+    {"label":"090","expected":"right","observed":"Head and trunk yaw to screen-right.","verdict":"pass","evidence":"Nose and trunk tip lie to the right of head center, far eye partially occluded by yaw; feet remain planted."},
+    {"label":"180","expected":"down","observed":"Head bows downward and eyes look below neutral.","verdict":"pass","evidence":"Forehead seam is prominent from pitched head; both pupils aim down and nose extends down from eye line."},
+    {"label":"270","expected":"left","observed":"Head and trunk yaw toward screen-left.","verdict":"pass","evidence":"Nose and trunk tip lie to left of head center; far eye is naturally occluded; original eyes and planted feet preserved."}
+  ]
+}

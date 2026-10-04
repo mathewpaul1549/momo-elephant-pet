@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21027,
+          "bbox": [
+            6,
+            16,
+            185,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 432
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19185,
+          "bbox": [
+            11,
+            21,
+            181,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18128,
+          "bbox": [
+            14,
+            28,
+            178,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 334
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17320,
+          "bbox": [
+            17,
+            35,
+            175,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17496,
+          "bbox": [
+            15,
+            35,
+            177,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 323
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18186,
+          "bbox": [
+            14,
+            28,
+            178,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 348
+        },
+        {
+          "index": 6,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19544,
+          "bbox": [
+            10,
+            20,
+            181,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        },
+        {
+          "index": 7,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/failed/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21050,
+          "bbox": [
+            6,
+            16,
+            186,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 433
+        }
+      ]
+    }
+  ]
+}

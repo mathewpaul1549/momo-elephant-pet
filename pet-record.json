@@ -1,0 +1,11 @@
+{
+  "id": "pet_6ac26dced1588191a8e50c50c6320080",
+  "name": "Momo",
+  "description": "A friendly, curious little plush elephant companion with soft gray fur and expressive ears.",
+  "is_custom": true,
+  "is_active": true,
+  "sprite_version": 2,
+  "local_sprite": "momo-spritesheet.png",
+  "sha256": "4498f1938b777494e377b44a3a3d1189d977e2305553e4d07c12633f18d28ec8",
+  "verified_by": "create_pet, select_pet and list_pets"
+}

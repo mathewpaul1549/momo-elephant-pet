@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21655,
+          "bbox": [
+            6,
+            15,
+            186,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 397
+        },
+        {
+          "index": 1,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20094,
+          "bbox": [
+            10,
+            15,
+            182,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 349
+        },
+        {
+          "index": 2,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21510,
+          "bbox": [
+            6,
+            15,
+            186,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 389
+        },
+        {
+          "index": 3,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19793,
+          "bbox": [
+            10,
+            15,
+            182,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 325
+        },
+        {
+          "index": 4,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21530,
+          "bbox": [
+            5,
+            15,
+            186,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 400
+        },
+        {
+          "index": 5,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20011,
+          "bbox": [
+            10,
+            15,
+            182,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 310
+        },
+        {
+          "index": 6,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21564,
+          "bbox": [
+            5,
+            15,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 402
+        },
+        {
+          "index": 7,
+          "file": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/qa/rows/running-right/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19886,
+          "bbox": [
+            10,
+            15,
+            182,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 325
+        }
+      ]
+    }
+  ]
+}

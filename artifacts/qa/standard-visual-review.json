@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "reviewer": "isolated-standard-visual-review",
+  "review_scope": "All nine rows in contact-sheet.png and frame sequences; GIF files verified present. Animated temporal playback cannot be observed directly through static image tool, so cadence review uses displayed frame sequence.",
+  "identity": "Gray fuzzy stitched plush baby elephant, peach inner ears, cream toes, short trunk, dark eyes preserved across states.",
+  "registration": "Common foot ground across rows; intentional jumping displacement and failed slump preserved. No material scale-transition jump visible in standard contact sheet.",
+  "rows": [
+    {
+      "state": "idle",
+      "verdict": "pass",
+      "evidence": "Six frames keep grounded feet and face; eyes open, narrow, close and reopen. Calm blink is readable."
+    },
+    {
+      "state": "running-right",
+      "verdict": "pass",
+      "evidence": "Eight right-facing frames alternate long extended limbs and passing poses; connected tail and trunk, stable ground."
+    },
+    {
+      "state": "running-left",
+      "verdict": "pass",
+      "evidence": "Eight left-facing frames preserve rightward cadence temporal order through individual frame mirroring; no asymmetric prop."
+    },
+    {
+      "state": "waving",
+      "verdict": "pass",
+      "evidence": "Four poses progress from planted foreleg to raised greeting with visible toes, then lower again. Final foreleg remains slightly raised but forms a readable return toward first pose."
+    },
+    {
+      "state": "jumping",
+      "verdict": "pass",
+      "evidence": "Five poses show anticipation, lift, highest airborne peak, descent, settle. Peak feet are visibly clear of ground; first/last ground registration agrees with idle."
+    },
+    {
+      "state": "failed",
+      "verdict": "pass",
+      "evidence": "Eight poses visibly slump by lowering head and ears, closing eyes in the middle and recovering; grounded feet and no detached tears/effects."
+    },
+    {
+      "state": "waiting",
+      "verdict": "pass",
+      "evidence": "Six poses clasp forefeet expectantly and tilt head both ways, including blink. Upright stance is naturally taller; no limb disconnection."
+    },
+    {
+      "state": "running",
+      "verdict": "pass",
+      "evidence": "Six grounded poses have focused head/trunk adjustments and alternating head tilt; reads as gentle processing rather than locomotion. Activity is deliberately subtle."
+    },
+    {
+      "state": "review",
+      "verdict": "pass",
+      "evidence": "Six poses lower head and direct gaze downward, tilt to inspect and blink; grounded feet and consistent gray plush identity."
+    }
+  ],
+  "material_failures": [],
+  "observations": [
+    "No clipping, detached effects, stray props or guide marks visible.",
+    "Waving final pose is partway lowered; first-frame completion supplies return in loop.",
+    "Active-work motion is quiet head and trunk movement."
+  ]
+}

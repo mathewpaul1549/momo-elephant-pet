@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "directions": [
+    {"label":"000","expected":"up","observed":"Frontal head pitches up.","verdict":"pass","evidence":"Chin lifts; trunk bridge and tip project upward between eyes, pupils sit high and look above nose."},
+    {"label":"022.5","expected":"up-right","observed":"Upward head angle with screen-right yaw.","verdict":"pass","evidence":"Nose bridge shifts right of forehead seam and trunk tip lifts above nose; eyes track upper-right."},
+    {"label":"045","expected":"up-right","observed":"Diagonal upper-right gaze.","verdict":"pass","evidence":"Face and trunk shift further right; lifted chin and elevated trunk point above horizontal."},
+    {"label":"067.5","expected":"up-right","observed":"Mostly rightward with mild upward pitch.","verdict":"warning","evidence":"Nose and original eye surfaces yaw screen-right; chin remains slightly lifted and trunk rises gently. Up axis is subtle at native size but continues the up-right family before horizontal right."},
+    {"label":"090","expected":"right","observed":"Head faces screen-right.","verdict":"pass","evidence":"Nose bridge and trunk extend right of head center; visible eye is directed along right-facing head; far eye occluded naturally."},
+    {"label":"112.5","expected":"down-right","observed":"Rightward gaze begins bowing downward.","verdict":"pass","evidence":"Nose remains right of head center, crown/forehead are increasingly visible and pupil looks lower; chin drops relative to right cardinal."},
+    {"label":"135","expected":"down-right","observed":"Stronger diagonal down-right bow.","verdict":"pass","evidence":"Face yaws right while forehead seam angles down; both eyes track lower-right and trunk hangs lower than prior frame."},
+    {"label":"157.5","expected":"down-right","observed":"Mostly down, retaining rightward head yaw.","verdict":"pass","evidence":"Nose and trunk tip remain right of head seam; forehead dominates and pupils aim below neutral, joining the down cardinal."},
+    {"label":"180","expected":"down","observed":"Frontal head looks down.","verdict":"pass","evidence":"Both original eyes point below neutral; nose and trunk hang vertically under forehead; crown visible and chin tucked."},
+    {"label":"202.5","expected":"down-left","observed":"Downward gaze turns slightly left.","verdict":"pass","evidence":"Nose and trunk lie left of head center; upper forehead visible and eye gaze remains low."},
+    {"label":"225","expected":"down-left","observed":"Diagonal down-left head pitch.","verdict":"pass","evidence":"Nose extends left from the forehead seam; eyes and chin lower, with trunk aimed lower-left."},
+    {"label":"247.5","expected":"down-left","observed":"Mostly left with mild downward pitch.","verdict":"warning","evidence":"Nose and trunk point screen-left; pupil remains low within original eye surface and head crown angles downward. Vertical cue is subtle but retains down-left family before left cardinal."},
+    {"label":"270","expected":"left","observed":"Head faces screen-left.","verdict":"pass","evidence":"Nose bridge and trunk extend left of head center; original visible eye follows leftward yaw; feet/lower torso planted."},
+    {"label":"292.5","expected":"up-left","observed":"Leftward head rises upward.","verdict":"pass","evidence":"Trunk/nose stay left of forehead center, trunk tip rises and chin lifts; original pupil directs above-left."},
+    {"label":"315","expected":"up-left","observed":"Diagonal upper-left gaze.","verdict":"pass","evidence":"Raised trunk tip projects left and above nose, lifted chin and upward-facing eye surfaces preserve both axes."},
+    {"label":"337.5","expected":"up-left","observed":"Mostly up with slight leftward head yaw.","verdict":"pass","evidence":"Trunk bridge lies left of forehead seam and extends steeply upward; pupils track upper-left while face approaches frontal up. Previous wrong-side pose was rejected and entire source row regenerated."}
+  ],
+  "continuity_review": "Reviewed all 16 native cells and ordered loop, including both row boundaries. Recorded metric outliers reflect head pitch/yaw and ear occlusion. Feet and lower-body anchor stay stable, no conspicuous scale/registration pop, quadrant reversal, face disappearance, clipping, detached effects, holes or whole-body turntable seen. Intermediate 067.5 and 247.5 vertical cues are subtle and explicitly accepted as warnings after labeled loop review."
+}

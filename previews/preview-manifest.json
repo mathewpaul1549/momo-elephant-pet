@@ -1,0 +1,17 @@
+{
+  "atlas": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/final/spritesheet-extended.png",
+  "video_fps": 10,
+  "video_frames": 83,
+  "standard_states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "look_frames": 16
+}

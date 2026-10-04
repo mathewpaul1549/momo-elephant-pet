@@ -1,0 +1,71 @@
+{
+  "ok": true,
+  "atlas": "/Users/mathewpaul/Documents/Codex/2026-10-04/pets-plugin-work-pets-openai-curated/work/momo/final/spritesheet-extended.png",
+  "encoded_bytes": 2610031,
+  "sha256": "4498f1938b777494e377b44a3a3d1189d977e2305553e4d07c12633f18d28ec8",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      179,
+      140,
+      173,
+      202
+    ],
+    "airborne_lift_pixels": 62,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 97.0,
+    "look_centers_x": [
+      96.5,
+      88.5,
+      94.5,
+      97.5,
+      101.5,
+      103.0,
+      101.0,
+      97.0,
+      96.5,
+      101.5,
+      98.0,
+      92.0,
+      94.0,
+      104.0,
+      105.5,
+      105.0
+    ],
+    "look_widths": [
+      131,
+      121,
+      131,
+      137,
+      137,
+      132,
+      126,
+      116,
+      139,
+      127,
+      132,
+      136,
+      138,
+      140,
+      137,
+      132
+    ],
+    "maximum_center_drift_pixels": 8.5,
+    "maximum_width_ratio": 1.206896551724138
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "000->022.5 center shift is high (8.0px)",
+    "090->112.5 diff is a local outlier (2398 pixels vs neighbor average 1506)",
+    "157.5->180 diff is a local outlier (2977 pixels vs neighbor average 2020)",
+    "270->292.5 diff is a local outlier (3257 pixels vs neighbor average 1244)",
+    "270->292.5 center shift is high (10.0px)",
+    "337.5->000 diff is a local outlier (2986 pixels vs neighbor average 1762)",
+    "337.5->000 center shift is high (10.1px)"
+  ]
+}

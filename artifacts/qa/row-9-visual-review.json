@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "source": "decoded/look-row-9.png",
+  "registered": "qa/look-row-9-registered.png",
+  "observations": "Eight complete ordered up-through-right-through-down-right poses. Nose bridge, eye surfaces, forehead and trunk advance around the right half of the arc. Lower body remains planted; extraction and shared registration passed. No clipping, face disappearance, whole-body turntable, wrong quadrant or reversal seen. Some near-horizontal upward intermediate cues are subtle but head pitch and lifted trunk preserve upward meaning.",
+  "next": "Generate row 10 using approved cardinals and row 9."
+}
